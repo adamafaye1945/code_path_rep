@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *Stinder*
 
-Submitted by: **Your Name Here**
+Submitted by: **Adama**
 
-**Name of your app** is an app that... [TODO] 
+**Stinder** is an app that helps students match with another partner for after-class studying... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -28,6 +28,20 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+1. Uber Eats:
+   - simplicity
+   - color
+   - animation
+2. Tinder:
+   - Color
+   - speed
+    
+3. Netflix:
+   - loading screen when opened
+   - simple
+   
+I would like to build an app similar to Tinder where students can swipe left and right to get a study partner. It would be a clone of tinder but instead of dating, studying. I would call Stinder (get it? student+tinder 😂)
+
 ## Notes
 
 Describe any challenges encountered while building the app.
@@ -47,17 +61,3 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
 
-## App brainstorm
-1. Uber Eats:
-   - simplicity
-   - color
-   - animation
-2. Tinder:
-   - Color
-   - speed
-    
-3. Netflix:
-   - loading screen when opened
-   - simple
-   
-I would like to build an app similar to tinder where student can swipe left and right to get a study partner. It would be a clone of tinder but instead of dating, studying. I would call Stinder (get it? student+tinder 😂)
