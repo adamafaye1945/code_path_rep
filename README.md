@@ -1,6 +1,6 @@
 # Prework - *Stinder*
 
-Submitted by: **Adama**
+Submitted by: **Adama Faye**
 
 **Stinder** is an app that helps students match with another partner for after-class studying... [TODO] 
 
